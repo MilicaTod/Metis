@@ -3,5 +3,8 @@ Welcome to home page!
 
 Navi
 Home
+login
+register
+
 
 Forgot password

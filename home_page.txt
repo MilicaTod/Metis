@@ -1,4 +1,7 @@
 Welcome to home page!
 
 
+Navi
+Home
+
 Forgot password
